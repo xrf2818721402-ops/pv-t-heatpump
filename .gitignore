@@ -1,0 +1,28 @@
+# MATLAB
+# Autosave files
+*.asv
+*.sav
+*.bak
+
+# MATLAB binary data
+*.mat
+*.fig
+*.mlappinstall
+*.mltbx
+*.mlpkginstall
+
+# MEX files
+*.mex*
+
+# Code generation folders
+slprj/
+codegen/
+
+# Cache and temp
+*.log
+*.tmp
+MATLAB Drive/
+helpsearch/
+
+# Editor stuff
+*.rpt
